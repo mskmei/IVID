@@ -1,10 +1,5 @@
 # IVID: Instrumental Variable-Inspired Disentanglement for MSA
 
-![IVID overview.](figures/head.png)
-
-*a multimodal framework that jointly performs cross-modal alignment and
-endogenous bias mitigation.*
-
 Instrumental Variable-Inspired Disentanglement (IVID) is a multimodal sentiment
 analysis framework for CMU-MOSI and CMU-MOSEI. It addresses two sources of bias
 in multimodal fusion: exogenous gaps across text, audio, and video feature
