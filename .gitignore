@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+data/
+checkpoint/
+logs/
+
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
